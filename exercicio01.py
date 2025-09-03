@@ -1,2 +1,2 @@
 nome = input("digite seu nome:")
-print ("olá! dayane, seja bem-vinda(o) ao mundo python.")
+print ("olá!, seja bem-vinda(o) ao mundo python.")
